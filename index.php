@@ -31,7 +31,7 @@
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
 
-        <p>Tämä on etusivu</p>
+        <p>On tämä hubi yks työmää</p>
         <p>
           <a class="btn btn-lg btn-primary" href="tietoisku.php" role="button">Tietoa tästä &raquo;</a>
         </p>
